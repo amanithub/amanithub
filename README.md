@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amanithub
+- 👋 Hi, I’m @amanithub,  An Information Technology Engineering Student
+- 
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web-Development
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 🌱 I’m currently learning and Creating Projects on Web-Dev
 - 📫 Contact me : pandeyamankumar13@gmail.com
 
 <!---
